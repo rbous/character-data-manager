@@ -1,9 +1,6 @@
 # **Character data manager**
 This project is a character data management software. It uses a file with a character and its attributes listed on each line and can perform the following commands: load the data, sort it in ascending or descending order using a particular attribute, find a polynomial equation that best fits the “Health” attribute when compared to another attribute, and plot the histogram of the values of an attribute.
 
-## Date
-07/04/2024
-
 ## Software name and version
 Python 3.11
 
