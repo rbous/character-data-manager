@@ -1,21 +1,16 @@
 # **Character data management**
----
 This project is a character data management software. It uses a file with a character and its attributes listed on each line and can perform the following commands: load the data, sort it in ascending or descending order using a particular attribute, find a polynomial equation that best fits the “Health” attribute when compared to another attribute, and plot the histogram of the values of an attribute.
 
 ## Date
----
 07/04/2024
 
 ## Software name and version
----
 Python 3.11
 
 ## Contact information
----
 Rayane Boussanni - rayaneboussanni@cmail.carleton.ca
 
 ## Dependencies
----
 You will need to have the following downloaded for the software to run:
 -	Python 3.11
 -	Any python IDE / shell
@@ -24,11 +19,9 @@ You will need to have the following downloaded for the software to run:
 -	check.py module
 
 ## Installation
----
 After installing python and all other dependencies, unzip the folder, and save all files in the same location. Then, run ‘text.UI’ in the IDE of your choice, and it will prompt you to enter your command. The file with your data must be in the same location as the rest of the files. If you already have a command file outlined with your desired actions, run ‘batch.UI’ instead. The file with the commands must also be in the same location as the rest of the files.
 
 ## Usage
----
 
 ### Text User Interface
 To use text_UI.py, simply run the script and follow the prompts displayed on the screen. Enter either uppercase or lowercase letters to execute commands, such as "L" for loading data, "S" for sorting data, "C" for curve fitting, "H" for histogram, or "E" to exit the program.
@@ -37,7 +30,6 @@ To use text_UI.py, simply run the script and follow the prompts displayed on the
 To use batch_UI.py, first, create a text file containing one complete command per line, with each command's inputs separated by semicolons. Then, execute the batch_UI.py script. When prompted, input the name of the text file containing the commands. The script will process each command from the file, displaying output in the terminal as required. Commands in the text file should adhere to the same format as those in the text-based UI.
 
 ## Credits
----
 
 ### Rayane:
 -	character_strength_list function
@@ -69,7 +61,6 @@ To use batch_UI.py, first, create a text file containing one complete command pe
 -	batch user interface
 
 ## License
----
 MIT License
 
 Copyright © 2024 [Rayane Boussanni]
