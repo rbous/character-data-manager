@@ -1,0 +1,27 @@
+Occupation,Strength,Agility,Stamina,Personality,Intelligence,Luck,Armor,Weapon
+AT,20,7,2,11,8,0.67,10,Staff
+AT,13,10,5,11,7,0.44,10,Club
+AT,19,9,9,10,12,0.39,10,Dagger
+DB,15,4,10,11,3,0.61,9,Club
+DB,10,10,11,11,7,0.44,10,Dagger
+EB,13,13,12,8,9,0.67,11,Dart
+EB,9,3,10,8,6,0.5,8,Staff
+EB,17,11,7,12,17,0.83,11,Dagger
+EB,13,8,8,14,15,0.83,10,Sling
+H,19,11,8,6,12,0.61,11,Shortbow
+H,13,6,5,6,13,0.67,9,Staff
+H,14,11,13,12,8,0.72,11,Longsword
+HG,17,4,7,13,9,0.78,9,Handaxe
+HG,12,7,12,10,7,0.83,10,Sling
+HG,11,14,5,13,8,0.56,12,Short sword
+HG,17,9,8,14,9,0.5,10,Club
+M,17,9,11,5,7,0.61,10,Longsword
+M,12,8,0,13,8,0.67,10,Club
+VF,14,6,4,12,14,0.56,9,Spear
+VF,17,6,4,5,13,0.83,9,Dagger
+VF,10,15,6,8,12,0.89,12,Handaxe
+WA,15,6,12,13,8,0.67,9,Short sword
+WA,14,7,8,8,7,0.39,10,Staff
+WA,15,12,7,13,7,0.67,11,Dagger
+WA,16,10,6,9,9,0.44,10,Club
+WA,8,11,9,10,8,0.61,11,Spear
